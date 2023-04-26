@@ -21,5 +21,3 @@ calc_sinistros_sonolencia <- function() {
 }
 
 prf_sinistros_2022 <- calc_sinistros_sonolencia()
-
-
